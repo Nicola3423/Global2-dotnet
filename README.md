@@ -17,7 +17,7 @@ Esta API RESTful gerencia três entidades principais: usuários, rotas seguras e
 - **ORM:** Entity Framework Core  
 - **Mensageria:** RabbitMQ  
 - **Machine Learning:** ML.NET  
-- **Testes:** xUnit, Moq  
+- **Testes:** xUnit
 - **Documentação:** Swagger (OpenAPI)  
 
 **Outras Bibliotecas:**
