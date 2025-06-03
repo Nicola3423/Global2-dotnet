@@ -1,9 +1,3 @@
-# Ajustando o trecho de código com cuidado para fechar corretamente as aspas
-
-snippet = '''# Criando o arquivo Markdown completo para download
-
-content = """# Sistema de Gestão de Riscos e Rotas Seguras
-
 ## Descrição do Projeto
 
 Esta API RESTful gerencia três entidades principais: usuários, rotas seguras e riscos. Implementa padrões modernos como:
