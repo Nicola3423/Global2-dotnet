@@ -2,6 +2,11 @@
 
 Esta API RESTful gerencia três entidades principais: usuários, rotas seguras e riscos. Implementa padrões modernos como:
 
+## Integrantes:
+- Igor Akira Bortolini Tateishi RM:554227 
+- Nicola Monte Cravo Garofalo RM:553991 
+- Willyam Santos Souza RM:554244 
+
 - Arquitetura MVC com Repository e Service  
 - HATEOAS para navegação de API  
 - Rate limiting para proteção contra abuso  
